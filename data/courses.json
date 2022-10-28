@@ -4,41 +4,41 @@
         "name": "Python Course",
         "picture": "https://cdn-icons-png.flaticon.com/512/919/919852.png?w=1380&t=st=1666895630~exp=1666896230~hmac=0b8acffd27a1c6ad03a6f4d084e56c5e725479b5614e7527a3a72ee0edffd725",
         "about": "Python is a high-level, general-purpose programming language.This  language often used to build websites and software, automate tasks, and conduct data analysis. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.It can be used to create a variety of different programs and isn't specialized for any specific problems.\r\n",
-        "course-fee": "$120"
+        "courseFee": "$120"
     },
     {
         "id": "2",
         "name": "React Course",
         "picture": "https://cdn-icons-png.flaticon.com/512/306/306717.png?w=1380&t=st=1666895740~exp=1666896340~hmac=72de2343725c04af5c8666272082ca26b45606711779301331b2985c7ea6adee",
         "about": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.\r\n",
-        "course-fee": "$100"
+        "courseFee": "$100"
     },
     {
         "id": "3",
         "name": "JavaScript Course",
         "picture": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?w=2000&t=st=1666895800~exp=1666896400~hmac=03d66598651fffd8ba8fe1417b1a2612d91f300e5bbfd3807aff1988bf25e133",
         "about": "JavaScript often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).\r\n",
-        "course-fee": "$110"
+        "courseFee": "$110"
     },
     {
         "id": "4",
         "name": "NodeJS Course",
         "picture": "https://cdn-icons-png.flaticon.com/512/919/919825.png?w=1380&t=st=1666895841~exp=1666896441~hmac=70c10e18c48ce0a6017b5ab4f3c79e3262ce04641c17f0608a997effe91d4b1b",
         "about": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine (i.e. V8 engine) and executes JavaScript code outside a web browser, which was designed to build scalable network applications. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a JavaScript everywhere paradigm,unifying web-application development around a single programming language, rather than different languages for server-side and client-side scripts.Node.js has an event-driven architecture capable of asynchronous I/O. These design choices aim to optimize throughput and scalability in web applications with many input/output operations, as well as for real-time Web applications (e.g., real-time communication programs and browser games).\r\n",
-        "course-fee": "$90"
+        "courseFee": "$90"
     },
     {
         "id": "5",
         "name": "AngularJS Course",
         "picture": "https://cdn-icons-png.flaticon.com/512/1233/1233755.png?w=1380&t=st=1666895912~exp=1666896512~hmac=2a81448dd7c21fe4b381a16a595f6b2524b94ae61f60ce06e3fdb87ec8e63bdc",
         "about": "AngularJS is a discontinued free and open-source JavaScript-based web framework for developing single-page applications. It was maintained mainly by Google and a community of individuals and corporations. It aimed to simplify both the development and the testing of such applications by providing a framework for client-side model–view–controller (MVC) and model–view–viewmodel (MVVM) architectures, along with components commonly used in web applications and progressive web applications.AngularJS was used as the frontend of the MEAN stack, that consisted of MongoDB database, Express.js web application server framework, AngularJS itself (or Angular), and Node.js server runtime environment.\r\n",
-        "course-fee": "$80"
+        "courseFee": "$80"
     },
     {
         "id": "6",
         "name": "CSS & HTML Course",
         "picture": "https://img.freepik.com/free-vector/css-html-programming-languages-computer-programming-coding-it-female-programmer-cartoon-character-software-website-development_335657-760.jpg?w=1380&t=st=1666895947~exp=1666896547~hmac=7c8f29f0ab5b492729d44e2ff25402de301d7bf188afd2be7e9250e7974f9e66",
         "about": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).[1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. \r\n",
-        "course-fee": "$80"
+        "courseFee": "$80"
     }
 ]
