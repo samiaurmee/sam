@@ -12,7 +12,11 @@ app.get('/', (req, res) => {
     res.send('API Running');
 });
 
-app.get('/online-courses', (req, res) => {
+app.get('/courses', (req, res) => {
+    res.send(courses)
+});
+
+app.get('/online-courses/:id', (req, res) => {
     res.send(courses)
 });
 
